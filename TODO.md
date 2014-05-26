@@ -1,12 +1,9 @@
-
-## Requirements
-
-### 3D
-
-#### Modes
+## Requirements ##
+### 3D ###
+#### Modes ####
 * spinning model
 * 2d product label, maybe of features, dimensions
 * exploded diagram
 
-#### Options
+#### Options ####
 * Toggle dimensions on/off
