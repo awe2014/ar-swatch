@@ -6,6 +6,8 @@
 * exploded diagram
 * search via barcode
 * placed view
+* rest api using barcode number
+* presentation
 
 #### Options ####
 * Toggle dimensions on/off
